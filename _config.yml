@@ -99,5 +99,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github-classhe:classhe/classhe.github.io.git
+  repo: git@github.com:classhe/classhe.github.io.git
   branch: master
